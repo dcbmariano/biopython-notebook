@@ -8,7 +8,7 @@ import mistune # markdown > html
 import modified_tomd
 import re
 import sys
-google_apikey = "AIzaSyD67X1TF5FsVxfeF_YbNRBAqfCxnGSSes8"
+google_apikey = ""
 args = sys.argv
 source_lang = args[1]  # e.g. en
 target_lang = args[2] # e.g. ja
